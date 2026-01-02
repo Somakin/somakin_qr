@@ -1,0 +1,6 @@
+app_name = "somakin_qr"
+app_title = "Somakin QR"
+app_publisher = "Somakin"
+app_description = "QR utilities for ERPNext (attachments, payload->QR image)"
+app_email = "joel.renggli@gmail.com"
+app_license = "MIT"
